@@ -91,3 +91,8 @@ README.md
 른지 검증한 다음 다시 시도하십시오.)
  (해결)
  - npm install -g react-scripts
+
+
+
+
+https://www.youtube.com/watch?v=apOdX0RFJuY&list=PL9a7QRYt5fqkZC9jc7jntD1WuAogjo_9T&index=21
