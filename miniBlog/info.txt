@@ -1,0 +1,19 @@
+설치한 패키지
+- react-router-dom
+- styled-components
+- serve : 생성된 static 파일을 제공
+npm install --save react-router-dom styled-components
+npm install -g serve
+-g : (global) 사용중인 컴퓨터 어디서든 사용가능
+
+[util]
+- UI component
+- 사용자가 입력할 수 있게 해주는 Component
+- button, text 입력
+- Bottom up (작은 부분부터 구현)
+
+[build]
+- 코드와 App이 사용하는 이미지, CSS파일 등의 파일을 모두 모아 패키징 하는 과정
+
+[배포]
+빌드를 통해 생성된 static 파일을 배포하려는 서버에 올리는 과정
